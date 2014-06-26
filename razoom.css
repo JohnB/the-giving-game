@@ -1,0 +1,17 @@
+/* CSS declarations go here */
+body {
+  font-style: verdana;
+}
+
+.point {
+  margin-top: 5px;
+  margin-left: 40px;
+}
+.concept {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.details {
+  margin-left: 20px;
+}
